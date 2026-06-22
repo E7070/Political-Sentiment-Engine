@@ -18,8 +18,10 @@ The project combines Natural Language Processing (NLP), Machine Learning, and Gr
 Python • Pandas • NumPy • Scikit-Learn • NLTK • spaCy • TextBlob • VADER • NetworkX • PyTorch • PyTorch Geometric • Flask • Streamlit
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a659865b-30c1-469a-a13b-e83ead14ec69" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1bdbb46-6f12-4c5d-be5c-398809ca331a" />
+<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/8700f505-a57d-4bb4-9391-480ae4282366" />
+<img width="1366" height="705" alt="image" src="https://github.com/user-attachments/assets/d1a9bc6a-14b5-43e2-815b-03ae23c9a036" />
+
+
 
 
 
